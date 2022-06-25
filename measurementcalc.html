@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Measurement Calc</title>
+</head>
+<body style="background-image: url(img/images.jpeg); background-size: 200vh; opacity: .5;">
+<center>
+	<h1>Measurement Calculator</h1>
+	<div class="container" style="border: 2px solid; width: 250px; height: 500px; margin-top: 50px; background-image: url(img/bg.jpg);">
+	<label style="opacity: .5;">Kilogram to Gram</label>
+	<input style="opacity: .5;" type="number" id="convrt"><br><br>
+
+	<label style="opacity: .5;">Meter to Centimeter</label>
+	<input style="opacity: .5;" type="number" id="m2c"><br><br>
+
+	<label style="opacity: .5;">Litre to Millitre</label>
+	<input style="opacity: .5;" type="number" id="l2ml"><br><br>
+
+	<label style="opacity: .5;">Hours to Seconds</label>
+	<input style="opacity: .5;" type="number" id="h2scs"><br><br>
+
+	<button style="margin-top: 10px; opacity: .5;" type="button" onclick="calc()">ShowCalc</button><br><br>
+
+	<label>Converter Values:</label>
+	<input style="margin-top: 10px; opacity: .5;" type="number" id="do" readonly>
+	<input style="margin-top: 10px; opacity: .5;" type="number" id="do1" readonly>
+	<input style="margin-top: 10px; opacity: .5;" type="number" id="do2" readonly>
+	<input style="margin-top: 10px; opacity: .5;" type="number" id="do3" readonly>
+	</div>
+</center>
+	<script type="text/javascript">
+		function calc()
+		   {
+		   		document.getElementById('do').value = document.getElementById('convrt').value*1000;
+
+		   		document.getElementById('do1').value = document.getElementById('m2c').value*100;
+
+		   		document.getElementById('do2').value = document.getElementById('l2ml').value*1000;
+
+		   		document.getElementById('do3').value = document.getElementById('h2scs').value*60;
+
+		   }
+
+	</script>
+</body>
+</html>
