@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>I'm thinking of a Fruit. Guess which: apple, Mango</p>
+
+<input id="myInput" type="text">
+
+<button onclick="Check()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function Check() {
+  var Fruit = document.getElementById("myInput").value;
+  
+
+  
+  if (Fruit == "apple") {
+    document.getElementById('demo').innerHTML = "This is a fruit";
+    
+  
+  } 
+
+  else if (Fruit == "Mango") {
+    document.getElementById('demo').innerHTML = "This is  a fruit";
+    
+  
+  } 
+
+  else {
+    document.getElementById('demo').innerHTML = "This is not a fruit";
+  }
+  
+}
+</script>
+
+</body>
+</html>
