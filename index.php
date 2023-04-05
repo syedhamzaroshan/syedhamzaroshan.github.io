@@ -8,38 +8,38 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <title>Zarxio Fitness & Gym HTML Template</title>
 <!-- favicon -->
-<link rel=icon href=http://localhost/sportsearth/modules/ui/img/favicon.png sizes="20x20" type="image/png">
+<link rel=icon href=https://syedhamzaroshan.github.io/modules/ui/img/favicon.png sizes="20x20" type="image/png">
 <!-- animate -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/animate.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/animate.css">
 <!-- bootstrap -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/bootstrap.min.css">
 <!-- magnific popup -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/magnific-popup.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/magnific-popup.css">
 <!-- Slick -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/slick.css" />
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/slick-theme.css" />
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/slick.css" />
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/slick-theme.css" />
 <!-- nice select -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/nice-select.css"> 
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/nice-select.css"> 
 <!-- owl carousel -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/owl.carousel.min.css">
 <!-- fontawesome -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/font-awesome.min.css">
 <!-- flaticon -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/flaticon.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/flaticon.css">
 <!-- hamburgers -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/hamburgers.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/hamburgers.min.css">
 <!-- hamburgers -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/hamburgers.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/hamburgers.min.css">
 <!-- twentytwenty -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/twentytwenty.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/twentytwenty.css">
 <!-- Date Picker -->
-<link href="http://localhost/sportsearth/modules/ui/css/datepicker.min.css" rel="stylesheet" type="text/css">
+<link href="https://syedhamzaroshan.github.io/modules/ui/css/datepicker.min.css" rel="stylesheet" type="text/css">
 <!-- Time Picker -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/wickedpicker.min.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/wickedpicker.min.css">
 <!-- Main Stylesheet -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/style.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/style.css">
 <!-- responsive Stylesheet -->
-<link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/responsive.css">
+<link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/responsive.css">
 
 </head>
 <body>
@@ -175,7 +175,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </button>
 </div>
 <div class="logo">
-<a href="index.html"> <img src="http://localhost/sportsearth/modules/ui/img/logo.png" alt="logo"></a>
+<a href="index.html"> <img src="https://syedhamzaroshan.github.io/modules/ui/img/logo.png" alt="logo"></a>
 </div>
 <div class="collapse navbar-collapse" id="billatrail_main_menu">
                     <ul class="navbar-nav menu-open">
@@ -256,7 +256,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <!-- navbar end -->
 
 <!-- banner start -->
-<div class="banner-area banner-style-one" style="background-image:url(http://localhost/sportsearth/modules/ui/img/bg/1.png);">
+<div class="banner-area banner-style-one" style="background-image:url(https://syedhamzaroshan.github.io/modules/ui/img/bg/1.png);">
 
 <div class="border1"></div>
 <div class="border2"></div>
@@ -371,10 +371,10 @@ aria-expanded="false" aria-label="Toggle navigation">
 
 <div class="banner-small-slider">
 <div class="small-slider">
-<div class="slider-image1"><img src="http://localhost/sportsearth/modules/ui/img/home/sm-slider/1.jpg" alt=""></div>
-<div class="slider-image1"><img src="http://localhost/sportsearth/modules/ui/img/home/sm-slider/2.jpg" alt=""></div>
-<div class="slider-image1"><img src="http://localhost/sportsearth/modules/ui/img/home/sm-slider/3.jpg" alt=""></div>
-<div class="slider-image1"><img src="http://localhost/sportsearth/modules/ui/img/home/sm-slider/4.png" alt=""></div>
+<div class="slider-image1"><img src="https://syedhamzaroshan.github.io/modules/ui/img/home/sm-slider/1.jpg" alt=""></div>
+<div class="slider-image1"><img src="https://syedhamzaroshan.github.io/modules/ui/img/home/sm-slider/2.jpg" alt=""></div>
+<div class="slider-image1"><img src="https://syedhamzaroshan.github.io/modules/ui/img/home/sm-slider/3.jpg" alt=""></div>
+<div class="slider-image1"><img src="https://syedhamzaroshan.github.io/modules/ui/img/home/sm-slider/4.png" alt=""></div>
 </div>
 <div class="controler-wrapper d-none d-lg-block">
 <div class="progressbar">
@@ -411,8 +411,8 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row">
 <div class="col-lg-6 col-xl-5">
 <div class="left-content-area" id="twentytwenty-container">
-<img src="http://localhost/sportsearth/modules/ui/img/home/before.png" alt="editing company image">
-<img src="http://localhost/sportsearth/modules/ui/img/home/after.png" alt="editing company image">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/before.png" alt="editing company image">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/after.png" alt="editing company image">
 </div>
 </div>
 <div class="col-lg-6 col-xl-7">
@@ -569,7 +569,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="single-popular-item">
 <div class="popular-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/popular/1.jpg" alt="slider1">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/popular/1.jpg" alt="slider1">
 </div>
 <div class="content">
 <p>Muscles Build</p>
@@ -590,7 +590,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="single-popular-item">
 <div class="popular-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/popular/2.jpg" alt="slider1">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/popular/2.jpg" alt="slider1">
 </div>
 <div class="content">
 <p>Body Build</p>
@@ -611,7 +611,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="single-popular-item">
 <div class="popular-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/popular/3.png" alt="slider1">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/popular/3.png" alt="slider1">
 </div>
 <div class="content">
 <p>Fitness Build</p>
@@ -632,7 +632,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="single-popular-item">
 <div class="popular-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/popular/4.jpg" alt="slider1">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/popular/4.jpg" alt="slider1">
 </div>
 <div class="content">
 <p>Mind Refress</p>
@@ -653,7 +653,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="single-popular-item">
 <div class="popular-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/popular/1.jpg" alt="slider1">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/popular/1.jpg" alt="slider1">
 </div>
 <div class="content">
 <p>Muscles Build</p>
@@ -829,7 +829,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row">
 <div class="order-2 order-sm-1 col-lg-6 col-xl-7 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/partner.png" alt="partner">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/partner.png" alt="partner">
 </div>
 </div>
 <div class="order-1 order-sm-2 col-lg-6 col-xl-5 d-flex align-items-center">
@@ -866,7 +866,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/1.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/1.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -905,7 +905,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/2.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/2.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -946,7 +946,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/3.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/3.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -985,7 +985,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/4.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/4.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -1026,7 +1026,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/5.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/5.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -1065,7 +1065,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/6.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/6.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -1106,7 +1106,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/7.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/7.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -1145,7 +1145,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="row border-custom">
 <div class="col-md-5 d-flex align-items-end">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/trainer/8.png" alt="trainer">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/8.png" alt="trainer">
 </div>
 </div>
 <div class="col-md-7 d-flex align-items-center">
@@ -1285,7 +1285,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/1.jpg" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/1.jpg" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1313,7 +1313,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/2.jpg" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/2.jpg" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1341,7 +1341,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/3.png" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/3.png" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1369,7 +1369,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/4.jpg" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/4.jpg" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1397,7 +1397,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/5.png" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/5.png" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1425,7 +1425,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="shop-single-item">
 <div class="top-content">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/shopping/12.png" alt="shopping">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/shopping/12.png" alt="shopping">
 </div>
 <div class="hover-content">
 <div class="btn-wrapper desktop-center">
@@ -1496,7 +1496,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="col-lg-12 col-sm-12 col-11 news-slider text-center">
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/1.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/1.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1512,7 +1512,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/2.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/2.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1528,7 +1528,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/3.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/3.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1544,7 +1544,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/4.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/4.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1560,7 +1560,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/5.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/5.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1576,7 +1576,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/6.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/6.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1592,7 +1592,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/7.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/7.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1608,7 +1608,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="news-item-style-01">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/news/8.jpg" alt="news">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/news/8.jpg" alt="news">
 </div>
 <div class="content">
 <div class="blog-meta">
@@ -1643,7 +1643,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="owl-carousel owl-theme">
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/1.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/1.png" alt="client">
 </div>
 <div class="content">
 <h1>Arpita paul</h1>
@@ -1652,7 +1652,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/2.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/2.png" alt="client">
 </div>
 <div class="content">
 <h1>Susmita sen</h1>
@@ -1661,7 +1661,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/3.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/3.png" alt="client">
 </div>
 <div class="content">
 <h1>Dipa talukdar</h1>
@@ -1670,7 +1670,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/4.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/4.png" alt="client">
 </div>
 <div class="content">
 <h1>Jimmy H. Hines</h1>
@@ -1679,7 +1679,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/7.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/7.png" alt="client">
 </div>
 <div class="content">
 <h1>Sharifur Rahman</h1>
@@ -1688,7 +1688,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/8.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/8.png" alt="client">
 </div>
 <div class="content">
 <h1>Azharul Naeem</h1>
@@ -1697,7 +1697,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 </div>
 <div class="item quote-style-1">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/home/client/9.png" alt="client">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/home/client/9.png" alt="client">
 </div>
 <div class="content">
 <h1>Asaduzzaman</h1>
@@ -1715,34 +1715,34 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="col-lg-12">
 <div class="brand-slider">
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand1.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand1.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand2.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand2.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand3.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand3.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand4.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand4.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand5.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand5.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand1.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand1.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand2.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand2.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand3.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand3.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand4.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand4.jpg" alt="brand">
 </div>
 <div class="brant-item">
-<img src="http://localhost/sportsearth/modules/ui/img/brand/brand5.jpg" alt="brand">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand5.jpg" alt="brand">
 </div>
 </div>
 </div>
@@ -1759,7 +1759,7 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="col-lg-4 col-xl-4 col-md-6">
 <div class="footer-widget widget">
 <a href="index.html" class="footer-logo"> 
-<img src="http://localhost/sportsearth/modules/ui/img/footer-logo.png" alt="footer logo">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/footer-logo.png" alt="footer logo">
 </a>
 <ul class="contact_info_list">
 <li class="single-info-item">
@@ -1795,7 +1795,7 @@ Zarxiofitness@info.com
 <ul class="recent_post_item">
 <li class="single-recent-post-item">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/post/1.png" alt="">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/post/1.png" alt="">
 </div>
 <div class="content">
 <p class="title">New gym center</p>
@@ -1804,7 +1804,7 @@ Zarxiofitness@info.com
 </li>
 <li class="single-recent-post-item">
 <div class="thumb">
-<img src="http://localhost/sportsearth/modules/ui/img/post/2.png" alt="">
+<img src="https://syedhamzaroshan.github.io/modules/ui/img/post/2.png" alt="">
 </div>
 <div class="content">
 <p class="title">Improve fitness</p>
@@ -1848,45 +1848,45 @@ Zarxiofitness@info.com
 <!-- back to top area end -->
 
 <!-- jquery -->
-<script src="http://localhost/sportsearth/modules/ui/js/jquery-2.2.4.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery-2.2.4.min.js"></script>
 <!-- popper -->
-<script src="http://localhost/sportsearth/modules/ui/js/popper.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/popper.min.js"></script>
 <!-- bootstrap -->
-<script src="http://localhost/sportsearth/modules/ui/js/bootstrap.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/bootstrap.min.js"></script>
 <!-- magnific popup -->
-<script src="http://localhost/sportsearth/modules/ui/js/jquery.magnific-popup.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.magnific-popup.js"></script>
 <!-- wow -->
-<script src="http://localhost/sportsearth/modules/ui/js/wow.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/wow.min.js"></script>
 <!-- nice select -->
-<script src="http://localhost/sportsearth/modules/ui/js/nice-select.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/nice-select.js"></script>
 <!-- owl carousel -->
-<script src="http://localhost/sportsearth/modules/ui/js/owl.carousel.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/owl.carousel.min.js"></script>
 <!-- Slick -->
-<script src="http://localhost/sportsearth/modules/ui/js/slick.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/slick.min.js"></script>
 <!-- Slick Animation -->
-<script src="http://localhost/sportsearth/modules/ui/js/slick-animation.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/slick-animation.js"></script>
 <!-- jquery.twentytwenty -->
-<script src="http://localhost/sportsearth/modules/ui/js/jquery.twentytwenty.js"></script>
-<script src="http://localhost/sportsearth/modules/ui/js/jquery.event.move.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.twentytwenty.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.event.move.js"></script>
 <!-- waypoint -->
-<script src="http://localhost/sportsearth/modules/ui/js/waypoints.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/waypoints.min.js"></script>
 <!-- Date Picker -->
-<script src="http://localhost/sportsearth/modules/ui/js/datepicker.min.js"></script>
-<script src="http://localhost/sportsearth/modules/ui/js/datepicker.en.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/datepicker.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/datepicker.en.js"></script>
 <!-- Time Picker -->
-<script src="http://localhost/sportsearth/modules/ui/js/wickedpicker.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/wickedpicker.min.js"></script>
 <!-- counterup -->
-<script src="http://localhost/sportsearth/modules/ui/js/jquery.counterup.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.counterup.min.js"></script>
 <!-- imageloaded -->
-<script src="http://localhost/sportsearth/modules/ui/js/imagesloaded.pkgd.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/imagesloaded.pkgd.min.js"></script>
 <!-- isotope -->
-<script src="http://localhost/sportsearth/modules/ui/js/isotope.pkgd.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/isotope.pkgd.min.js"></script>
 <!-- rProgressbar -->
-<script src="http://localhost/sportsearth/modules/ui/js/jQuery.rProgressbar.min.js"></script>
-<script src="http://localhost/sportsearth/modules/ui/js/timepicker.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/jQuery.rProgressbar.min.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/timepicker.js"></script>
 <!-- main js -->
-<script src="http://localhost/sportsearth/modules/ui/js/main.js"></script>
-<script src="http://localhost/sportsearth/modules/ui/js/script.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/main.js"></script>
+<script src="https://syedhamzaroshan.github.io/modules/ui/js/script.js"></script>
 
 <script type="text/javascript"> 
 $(document).ready(function () { 

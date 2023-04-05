@@ -8,30 +8,30 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Zarxio Fitness & Gym HTML Template</title>
      <!-- favicon -->
-     <link rel=icon href=http://localhost/sportsearth/modules/ui/img/favicon.png sizes="20x20" type="image/png">
+     <link rel=icon href=https://syedhamzaroshan.github.io/modules/ui/img/favicon.png sizes="20x20" type="image/png">
     <!-- animate -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/animate.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/animate.css">
     <!-- bootstrap -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/bootstrap.min.css">
     <!-- magnific popup -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/magnific-popup.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/magnific-popup.css">
     <!-- Slick -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/slick.css" />
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/slick-theme.css" />
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/slick.css" />
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/slick-theme.css" />
     <!-- nice select -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/nice-select.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/nice-select.css">
     <!-- owl carousel -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/owl.carousel.min.css">
     <!-- fontawesome -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/font-awesome.min.css">
     <!-- flaticon -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/flaticon.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/flaticon.css">
     <!-- hamburgers -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/hamburgers.min.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/hamburgers.min.css">
     <!-- Main Stylesheet -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/style.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/style.css">
     <!-- responsive Stylesheet -->
-    <link rel="stylesheet" href="http://localhost/sportsearth/modules/ui/css/responsive.css">
+    <link rel="stylesheet" href="https://syedhamzaroshan.github.io/modules/ui/css/responsive.css">
       
 </head>
 <body>
@@ -73,7 +73,7 @@
                     </button>
                 </div>
                 <div class="logo">
-                    <a href="index.html"> <img src="http://localhost/sportsearth/modules/ui/img/logo.png" alt="logo"></a>
+                    <a href="index.html"> <img src="https://syedhamzaroshan.github.io/modules/ui/img/logo.png" alt="logo"></a>
                 </div>
                 <div class="collapse navbar-collapse" id="billatrail_main_menu">
                     <ul class="navbar-nav menu-open">
@@ -154,7 +154,7 @@
     <!-- navbar end -->
 
     <!-- breadcrumb area -->
-    <div class="breadcrumb-style-1" style="background-image:url(http://localhost/sportsearth/modules/ui/img/bg/service.png);">
+    <div class="breadcrumb-style-1" style="background-image:url(https://syedhamzaroshan.github.io/modules/ui/img/bg/service.png);">
         <div class="breadcrumb-inner">
             <h1 class="page-title">Trainer</h1>
             <ul class="page-list margin-bottom-0">
@@ -200,7 +200,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/1.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/1.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -241,7 +241,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/2.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/2.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -282,7 +282,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/3.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/3.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -323,7 +323,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/4.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/4.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -364,7 +364,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/5.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/5.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -405,7 +405,7 @@
                     <div class="row border-custom">
                         <div class="col-md-5">
                             <div class="thumb">
-                                <img src="http://localhost/sportsearth/modules/ui/img/home/trainer/6.png" alt="trainer">
+                                <img src="https://syedhamzaroshan.github.io/modules/ui/img/home/trainer/6.png" alt="trainer">
                             </div>
                         </div>
                         <div class="col-md-7 d-flex align-items-center">
@@ -477,34 +477,34 @@
                 <div class="col-lg-12">
                     <div class="brand-slider">
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand1.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand1.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand2.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand2.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand3.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand3.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand4.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand4.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand5.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand5.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand1.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand1.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand2.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand2.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand3.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand3.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand4.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand4.jpg" alt="brand">
                         </div>
                         <div class="brant-item">
-                            <img src="http://localhost/sportsearth/modules/ui/img/brand/brand5.jpg" alt="brand">
+                            <img src="https://syedhamzaroshan.github.io/modules/ui/img/brand/brand5.jpg" alt="brand">
                         </div>
                     </div>
                 </div>
@@ -546,7 +546,7 @@
                         <div class="footer-widget widget">
                             <div class="about_us_widget">
                                 <a href="index.html" class="footer-logo"> 
-                                    <img src="http://localhost/sportsearth/modules/ui/img/footer-logo.png" alt="footer logo">
+                                    <img src="https://syedhamzaroshan.github.io/modules/ui/img/footer-logo.png" alt="footer logo">
                                 </a>
                             </div>
                         </div>
@@ -581,36 +581,36 @@
     <!-- back to top area end -->
 
     <!-- jquery -->
-    <script src="http://localhost/sportsearth/modules/ui/js/jquery-2.2.4.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery-2.2.4.min.js"></script>
     <!-- popper -->
-    <script src="http://localhost/sportsearth/modules/ui/js/popper.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/popper.min.js"></script>
     <!-- bootstrap -->
-    <script src="http://localhost/sportsearth/modules/ui/js/bootstrap.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/bootstrap.min.js"></script>
     <!-- magnific popup -->
-    <script src="http://localhost/sportsearth/modules/ui/js/jquery.magnific-popup.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.magnific-popup.js"></script>
     <!-- wow -->
-    <script src="http://localhost/sportsearth/modules/ui/js/wow.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/wow.min.js"></script>
     <!-- nice select -->
-    <script src="http://localhost/sportsearth/modules/ui/js/nice-select.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/nice-select.js"></script>
     <!-- owl carousel -->
-    <script src="http://localhost/sportsearth/modules/ui/js/owl.carousel.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/owl.carousel.min.js"></script>
     <!-- Slick -->
-    <script src="http://localhost/sportsearth/modules/ui/js/slick.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/slick.min.js"></script>
     <!-- Slick Animation -->
-    <script src="http://localhost/sportsearth/modules/ui/js/slick-animation.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/slick-animation.js"></script>
     <!-- waypoint -->
-    <script src="http://localhost/sportsearth/modules/ui/js/waypoints.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/waypoints.min.js"></script>
     <!-- counterup -->
-    <script src="http://localhost/sportsearth/modules/ui/js/jquery.counterup.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/jquery.counterup.min.js"></script>
     <!-- imageloaded -->
-    <script src="http://localhost/sportsearth/modules/ui/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/imagesloaded.pkgd.min.js"></script>
     <!-- isotope -->
-    <script src="http://localhost/sportsearth/modules/ui/js/isotope.pkgd.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/isotope.pkgd.min.js"></script>
      <!-- rProgressbar -->
-    <script src="http://localhost/sportsearth/modules/ui/js/jQuery.rProgressbar.min.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/jQuery.rProgressbar.min.js"></script>
     <!-- main js -->
-    <script src="http://localhost/sportsearth/modules/ui/js/main.js"></script>
-    <script src="http://localhost/sportsearth/modules/ui/js/script.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/main.js"></script>
+    <script src="https://syedhamzaroshan.github.io/modules/ui/js/script.js"></script>
     
     <script type="text/javascript"> 
 $(document).ready(function () { 
