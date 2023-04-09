@@ -395,7 +395,7 @@
 			marker = new google.maps.Marker( {
 				position: new google.maps.LatLng( 40.6401038, -73.9495823 ),
 				map: map,
-				icon: 'assets/img/map-point.png'
+				icon: 'modules/ui/img/map-point.png'
 			});
 		}
 	}
