@@ -310,6 +310,11 @@ header {
     left: 0;
     opacity: 1;
     transition-delay: .2s; }
+    /*.nav-menu li.active a {
+      color: #f23849; }
+
+      nav-menu li.active-dropdown a {
+      color: #f23849; }*/
 
 header:before {
   content: '';
