@@ -303,7 +303,7 @@ header {
   opacity: 0;
   top: 0;
   z-index: 3;
-  background-color: #202020;
+  background-color: #fff;
   position: absolute;
   transition: 0.3s cubic-bezier(0.215, 0.61, 0.355, 1); }
   .nav-menu.active {
@@ -753,7 +753,9 @@ header:after {
       margin-top: 0; }
     .nav-list > li > a {
       font-size: 18px;
-      line-height: 34px; } }
+      line-height: 34px;
+
+       } }
 @media (max-width: 575px) {
   .s-header-title .container {
     flex-direction: column;
